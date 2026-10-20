@@ -28,4 +28,4 @@ Email support@machinemail.dev, or open an issue here. Include the output of `mac
 
 ## License
 
-The CLI is not released under an open-source license. Use of MachineMail is covered by the [terms of service](https://machinemail.dev/terms).
+The CLI is released under the [MIT License](LICENSE). Use of the MachineMail service is covered by the [terms of service](https://machinemail.dev/terms).
